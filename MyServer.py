@@ -1,9 +1,3 @@
-# 1. Implement multi-threaded client/server Process communication
-# using RMI.
-
-# pip install pyro4
-
-# pyro4-ns  ---> tarminal command to run sever 
 
 import Pyro4
 
